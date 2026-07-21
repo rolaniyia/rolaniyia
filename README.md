@@ -1,76 +1,99 @@
-<h1 align="center">Hi 👋, I'm Raphael Olaniyi</h1>
+<h1 align="center">Hi 👋, Raphael Olaniyi </h1>
+
+<h3 align="center">
+☁️ AZ900 Certified | Az-901 Certified | 🐧 Linux Enthusiast | FinOps Certified Practitioner | 🚀 Cloud & DevOps Engineer 
+
+</h3>
 <p align="center">
-<strong>Aspiring Cloud Engineer • FinOps Practitioner • DevOps Enthusiast</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=AZ-104+Certified;Microsoft+Certified;Cloud+%26+DevOps+Engineer;Linux+Enthusiast;Building+Cloud+Projects;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
----
-# 👨💻 About Me
-- 🔭 I'm currently building hands-on projects in Linux, Git, GitHub and Microsoft Azure
-- 🌱 I'm passionate about Linux, Cloud Computing and Open-Source Technologies
-- 🤝 I'm looking to collaborate on Open Source Projects
-- 💬  Continuously learning Docker, Kubernetes, Bash Scripting and DevOps
-- 🎯 My goal is to become a highly skilled  Cloud & DevOps Engineer and FinOps Practitioner
-- ⚡ I believe in learning by building real-world projects
-- 📫 Reach me at olaniyiabiodunraphael@gmail.com
----
-<p align="center">
-<a href="https://github.com/rolaniyia">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-<a href="https://linkedin.com/in/Raphael Olaniyi">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-</p>
----
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,git,github,linux,vscode,docker,aws" />
-</p>
----
-I am working with a team of engineer on a software application that converts texts to voice. 
-**Repository:** https://github.com/rolaniyia/Text-to-voice.git
----
-A short description of your second project.
-**Repository:** https://github.com/yourusername/project-two
----
-A short description of your third project.
-**Repository:** https://github.com/yourusername/project-three
+
+## 🏆 Open Source Contributor
+
+• Successfully contributed to and merged changes into a public GitHub project.
+
+## 👩‍💻 About Me
+- 🐧 Passionate about Linux, Cloud Computing and Open-Source Technologies
+- 🚀 Currently building hands-on projects in **Linux, Git, GitHub and Microsoft Azure**
+- 🌱 Continuously learning **Docker, Kubernetes, Bash Scripting and DevOps**
+- 🎯 Goal: To become a highly skilled **Cloud & DevOps Engineer and FinOps Practitioner**
+- ⚡ I believe in learning by building real-world projects.
+
+## 🏆 Certifications
+
+- ☁️ **Microsoft Certified:Azure Fundamentals (AZ-900)** • [View Certificate]https://www.credly.com/badges/626d2ec8-2e32-481a-af92-edbc73ddcf91/public_url)
+
+- 📊 **Microsoft Certified: Azure AI Fundamentals** • [View Certificate](https://www.credly.com/badges/4ac9b2a7-766f-4cfe-b52a-9784ba8a44ec/public_url)
+
+- ☸*️**Google Certified: Associate Cloud Engineer Certification  (GCP)** • [View Certificate(https://www.credly.com/badges/8b56e075-012a-4898-8583-4790e2756bd2/public_url)
+
+- ☸**The Linux Foundation Certified: FinOps Certified Practitioner** . [View Certification (https://www.credly.com/badges/32614b74-234d-4d5b-b433-3e4e37a4e2ad/public_url)
+
+## 🛠️ Microsoft Applied Skills
+
+- ✅ **Get started with identities and access using Microsoft Entra** • [View Applied Skill](https://learn.microsoft.com/api/credentials/share/en-us/RaphaelOlaniyi/8FEE06F89C3C13B4?sharingId=8EF3E1AB078AD091)
+
+- ✅ **Get started with cloud security and monitoring tasks** • [View Applied Skill](https://learn.microsoft.com/api/credentials/share/en-us/RaphaelOlaniyi/8FEE06F89C3C13B4?sharingId=8EF3E1AB078AD091)
+
+- ✅ **Configure secure access to your workloads using Azure networking** • [View Applied Skill](https://learn.microsoft.com/api/credentials/share/en-us/RaphaelOlaniyi/8FEE06F89C3C13B4?sharingId=8EF3E1AB078AD091)
+
+- ✅ **Accelerate AI-assisted development by using GitHub Copilot** • [View Applied Skill](https://learn.microsoft.com/api/credentials/share/en-us/RaphaelOlaniyi/8FEE06F89C3C13B4?sharingId=8EF3E1AB078AD091)
+
+- ✅ **Get started with Azure management tasks** • [View Applied Skill](https://learn.microsoft.com/api/credentials/share/en-us/RaphaelOlaniyi/8FEE06F89C3C13B4?sharingId=8EF3E1AB078AD091)
+
+- ✅ **Secure storage for Azure Files and Azure Blob Storage** • [View Applied Skill](https://learn.microsoft.com/api/credentials/share/en-us/RaphaelOlaniyi/8FEE06F89C3C13B4?sharingId=8EF3E1AB078AD091)
+
+- ## 🤝 Open Source Contributions
+
+### 📌 PinpointPro
+
+Contributed to **PinpointPro**, an open-source location intelligence project, by improving project documentation and maintaining contributor records.
+
+### 🚀 Contributions
+
+#### ✅ PR #7 – Browser Prerequisites Documentation
+- Clarified browser prerequisites in the project's `README.md by adding examples of modern browsers that support ES6 modules.
+- Improved the onboarding experience for new users by making setup requirements clearer.
+
 ---
 
-> Add your completed certifications below as you earn them.
-| Certification | Issuing Organization | Date | Credential |
-|---------------|----------------------|------|------------|
-| Microsoft Azure Fundamentals (AZ-900) | Microsoft | Jun 2024 | [https://www.credly.com/badges/4ac9b2a7-766f-4cfe-b52a-9784ba8a44ec/public_url](#) |
-| Microsoft Certified: Azure AI Fundamentals | Microsoft | Jun 2024 | https://www.credly.com/badges/4ac9b2a7-766f-4cfe-b52a-9784ba8a44ec/public_url (#) |
-| Associate Cloud Engineer | Google | Dec 2024 | https://www.credly.com/badges/8b56e075-012a-4898-8583-4790e2756bd2/public_url ](#) |
-| FinOps Certified Practitioner  | Mar 2025 | https://www.credly.com/badges/32614b74-234d-4d5b-b433-3e4e37a4e2ad/public_url](#) |
-| Using Linux Terminal | Canonical |Oct 2025 |https://www.credly.com/badges/077cfcad-cf8c-4dc8-81c2-f653cf1ae794/public_url |
+#### ✅ PR #3 – CONTRIBUTORS.md Update
+- Added my details to the project's `CONTRIBUTORS.md` as a **Phase 2 Project Contributor**.
+- Helped keep contributor records accurate and acknowledge community participation.
+
+🔗 **Pull Request:** https://github.com/raphgm/pinpointpro/pull/21#partial-pull-merging
 ---
-<p align="center">
-<!-- Add badge images here -->
-<img src="images/az900.png" width="120"/>
-<img src="images/kcna.png" width="120"/>
-<img src="images/google-cloud.png" width="120"/>
+
+### 🏆 Impact
+
+- Successfully submitted **2 merged pull requests**.
+- Both contributions were **reviewed, approved, and merged** by the project maintainer.
+- Demonstrated proficiency with GitHub's open-source collaboration workflow, including forks, feature branches, pull requests, code reviews, and merges.
+
+🔗 **Repository:** https://github.com/raphgm/pinpointpro
+
+⭐ Looking forward to contributing to more open-source projects in Cloud, DevOps, Linux, and Kubernetes.
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/raphael-olaniyi-40393766?utm_source=share_via&utm_content=profile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:olaraph004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email"/>
+  </a>
+
+  <a href="https://dev.to/olaraph_dev" target="_blank">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="40" alt="DEV Community"/>
+  </a>
 </p>
----
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default"/>
+
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,linux,bash,git,github,vscode,docker,kubernetes,terraform,python" />
 </p>
----
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=yourusername"/>
-</p>
----
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact"/>
-</p>
----
-- ✅ Build 10 real-world cloud projects
-- ✅ Contribute to Open Source
-- ✅ Earn Cloud Certifications
-- ✅ Learn Kubernetes
-- ✅ Improve Linux Skills
-- ✅ Land a Cloud Engineering Role
----
-<p align="center">
-⭐ Thank you for visiting my profile! ⭐
-</p>
+
