@@ -21,13 +21,13 @@
 
 ## 🏆 Certifications
 
-- ☁️ **Microsoft Certified:Azure Fundamentals (AZ-900)** • [View Certificate]https://www.credly.com/badges/626d2ec8-2e32-481a-af92-edbc73ddcf91/public_url)
+- ☁ **Microsoft Certified:Azure Fundamentals (AZ-900)** • [View Certificae](https://www.credly.com/badges/626d2ec8-2e32-481a-af92-edbc73ddcf91/public_url)
 
-- 📊 **Microsoft Certified: Azure AI Fundamentals** • [View Certificate](https://www.credly.com/badges/4ac9b2a7-766f-4cfe-b52a-9784ba8a44ec/public_url)
+- 📊**Microsoft Certified: Azure AI Fundamentals** • [View Certificate](https://www.credly.com/badges/4ac9b2a7-766f-4cfe-b52a-9784ba8a44ec/public_url)
 
-- ☸*️**Google Certified: Associate Cloud Engineer Certification  (GCP)** • [View Certificate(https://www.credly.com/badges/8b56e075-012a-4898-8583-4790e2756bd2/public_url)
+- ☸ **Google Certified: Associate Cloud Engineer Certification  (GCP)** • [View Certificat](https://www.credly.com/badges/8b56e075-012a-4898-8583-4790e2756bd2/public_url)
 
-- ☸**The Linux Foundation Certified: FinOps Certified Practitioner** . [View Certification (https://www.credly.com/badges/32614b74-234d-4d5b-b433-3e4e37a4e2ad/public_url)
+- ☸**The Linux Foundation Certified: FinOps Certified Practitioner** . [View Certificatio](https://www.credly.com/badges/32614b74-234d-4d5b-b433-3e4e37a4e2ad/public_url)
 
 ## 🛠️ Microsoft Applied Skills
 
@@ -47,7 +47,8 @@
 
 ### 📌 PinpointPro
 
-Contributed to **PinpointPro**, an open-source location intelligence project, by improving project documentation and maintaining contributor records.
+Contributed to **PinpointPro**, PinPoint Pro is a high-performance, context-aware digital workspace designed for deep work. It transforms your browser or desktop environment into a "pinned" productivity surface, using AI to intelligently manage window layouts, categorise research, and provide semantic search across your entire workspace..
+
 
 ### 🚀 Contributions
 
