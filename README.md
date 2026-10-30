@@ -160,6 +160,7 @@ I contribute to open-source projects across cloud engineering, FinOps, DevOps, a
 | Project | Contribution | Opened | Status |
 |:--------|:-------------|:------:|:------:|
 | [**kora-oss/kora-pay**](https://github.com/kora-oss/kora-pay) | [#11](https://github.com/kora-oss/kora-pay/pull/11) · `feat(cli)` — pricing quote CLI with 11 unit tests | 2026-10-30 | ![Merged](https://img.shields.io/badge/MERGED-2F9E44?style=flat-square&logo=git&logoColor=white) |
+| [**raphgm/pinpointpro**](https://github.com/raphgm/pinpointpro) | [#48](https://github.com/raphgm/pinpointpro/pull/48) · restore contributor entry that #12 shipped commented out | 2026-10-30 | ![In review](https://img.shields.io/badge/IN%20REVIEW-1C7ED6?style=flat-square) |
 | [**raphgm/cloudcost-cli**](https://github.com/raphgm/cloudcost-cli) | [#29](https://github.com/raphgm/cloudcost-cli/pull/29) · cost anomaly detection policy (3× trailing 7-day spike) + 6 tests | 2026-10-29 | ![Merged](https://img.shields.io/badge/MERGED-2F9E44?style=flat-square&logo=git&logoColor=white) |
 | [**raphgm/pinpointpro**](https://github.com/raphgm/pinpointpro) | [#12](https://github.com/raphgm/pinpointpro/pull/12) · contributor records and onboarding docs | 2026-07-04 | ![Merged](https://img.shields.io/badge/MERGED-2F9E44?style=flat-square&logo=git&logoColor=white) |
 
@@ -169,9 +170,9 @@ I contribute to open-source projects across cloud engineering, FinOps, DevOps, a
 
 | Metric | Count |
 |:--|:--:|
-| Pull requests opened | 3 |
+| Pull requests opened | 4 |
 | ✅ Merged | 3 |
-| 🟡 Open / in review | 0 |
+| 🟡 Open / in review | 1 |
 | ⚪ Closed without merge | 0 |
 
 ### 🚀 What I've Worked On
