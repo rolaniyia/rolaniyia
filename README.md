@@ -153,45 +153,34 @@ Practical skills developed across Microsoft Azure administration, cloud security
 
 ## 🤝 Open-Source Contributions
 
-I'm actively building my open-source portfolio by collaborating on projects, improving documentation, and contributing to community-driven software.
+I contribute to open-source projects across cloud engineering, FinOps, DevOps, and developer tooling — from SQL cost policies to zero-dependency CLI tools. Every pull request I open is listed below with its current merge status.
 
-### 📌 PinpointPro
+<!-- CONTRIBUTIONS:START -->
 
-<a href="https://github.com/raphgm/pinpointpro">
-<img src="https://img.shields.io/badge/GitHub-PinpointPro-181717?style=for-the-badge&logo=github&logoColor=white" alt="PinpointPro repository"/>
-</a>
+| Project | Contribution | Opened | Status |
+|:--------|:-------------|:------:|:------:|
+| [**kora-oss/kora-pay**](https://github.com/kora-oss/kora-pay) | [#11](https://github.com/kora-oss/kora-pay/pull/11) · `feat(cli)` — pricing quote CLI with 11 unit tests | 2026-10-30 | ![Merged](https://img.shields.io/badge/MERGED-2F9E44?style=flat-square&logo=git&logoColor=white) |
+| [**raphgm/cloudcost-cli**](https://github.com/raphgm/cloudcost-cli) | [#29](https://github.com/raphgm/cloudcost-cli/pull/29) · cost anomaly detection policy (3× trailing 7-day spike) + 6 tests | 2026-10-29 | ![Merged](https://img.shields.io/badge/MERGED-2F9E44?style=flat-square&logo=git&logoColor=white) |
+| [**raphgm/pinpointpro**](https://github.com/raphgm/pinpointpro) | [#12](https://github.com/raphgm/pinpointpro/pull/12) · contributor records and onboarding docs | 2026-07-04 | ![Merged](https://img.shields.io/badge/MERGED-2F9E44?style=flat-square&logo=git&logoColor=white) |
 
-**PinpointPro** is a context-aware digital workspace designed to improve productivity through organised workspaces, AI-assisted window management, research categorisation, and semantic search.
+<!-- CONTRIBUTIONS:END -->
 
-### 🚀 Contributions
+### 📊 Contribution Summary
 
-#### ✅ Browser Prerequisites Documentation
+| Metric | Count |
+|:--|:--:|
+| Pull requests opened | 3 |
+| ✅ Merged | 3 |
+| 🟡 Open / in review | 0 |
+| ⚪ Closed without merge | 0 |
 
-- Clarified browser prerequisites in the project's `README.md`.
-- Added examples of modern browsers that support ES6 modules.
-- Improved setup documentation and the onboarding experience for new contributors.
+### 🚀 What I've Worked On
 
-#### ✅ Contributors Documentation
+- **kora-oss/kora-pay** — Shipped a zero-dependency CLI (`npx kora-pay quote`) for instant seat-based pricing quotes, wired into the package binaries, documented, and covered by 11 unit tests.
+- **raphgm/cloudcost-cli** — Added a SQL cost-anomaly policy that flags day-over-day spend spikes against a trailing 7-day average, with a full-baseline guard and 6 policy tests.
+- **raphgm/pinpointpro** — Documented browser prerequisites and added contributor records for the Phase 2 project.
 
-- Added my details to the project's `CONTRIBUTORS.md`.
-- Identified my participation as a Phase 2 Project Contributor.
-- Helped maintain accurate contributor records and acknowledge community involvement.
-
-### 📊 Contribution Highlights
-
-| Achievement | Details |
-|---|---|
-| Merged pull requests | 2, as reported for these contributions |
-| Contribution areas | Documentation and contributor records |
-| Collaboration | Forks, branches, pull requests, reviews, and merges |
-| Project | PinpointPro |
-
-**Explore the project and contributions:**
-
-- 📂 [PinpointPro Repository](https://github.com/raphgm/pinpointpro)
-- 🔗 [Pull Request #21](https://github.com/raphgm/pinpointpro/pull/21#partial-pull-merging)
-
-⭐ I'm looking forward to contributing to more open-source projects involving cloud computing, Linux, DevOps, automation, and Kubernetes.
+⭐ I'm always open to collaborating on cloud computing, Linux, DevOps, automation, and Kubernetes projects.
 
 ---
 
