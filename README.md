@@ -200,7 +200,7 @@ I'm always happy to connect with cloud professionals, FinOps practitioners, DevO
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/raphael-olaniyi-40393766">
+<a href="https://www.linkedin.com/in/raphael-olaniyi">
 <img src="https://img.shields.io/badge/LinkedIn-Raphael_Olaniyi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
